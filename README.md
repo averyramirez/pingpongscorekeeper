@@ -1,0 +1,2 @@
+- Created using Bulma and JavaScript
+- Tracks score of two players in a game of ping pong
